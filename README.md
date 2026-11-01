@@ -1,5 +1,5 @@
 # Self-Balancing-Robot
-I am planning to build a Self Balancing Robot that will wander around while balancing on its own but later I am planning to add controls that will be on a web server. This build will be around 50-60 dollars as a cost to buy all the parts brand new a breakdown of the prices are listed below. Some parts are from Amazon and some are from Aliexpress as a result of making the project as cost efficient as possible. The wiring diagram and chassis file are included but not here.
+I am planning to build a Self Balancing Robot that will wander around while balancing on its own as a starter version I will work on make it balancing in place then move on to it wandering and maybe adding obstacle detection. This build will be around 50-60 dollars as a cost to buy all the parts brand new a breakdown of the prices are listed below. Some parts are from Amazon and some are from Aliexpress as a result of making the project as cost efficient as possible. The wiring diagram and chassis file are included but not here.
 
 - ESP32-WROVER-CAM = $18 (Amazon)
 - L298N Motor Driver = $6 (Aliexpress)
