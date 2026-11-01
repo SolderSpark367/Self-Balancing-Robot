@@ -1,5 +1,5 @@
 # Self-Balancing-Robot
-A Self Balancing Robot controlled through a web server through Wi-Fi. This build will be around 50-60 dollars as a cost to buy all the parts brand new a breakdown of the prices are listed below. Some parts are from Amazon and some are from Aliexpress as a result of making the project as cost efficient as possible.
+I am planning to build a Self Balancing Robot controlled through a web server through Wi-Fi. This build will be around 50-60 dollars as a cost to buy all the parts brand new a breakdown of the prices are listed below. Some parts are from Amazon and some are from Aliexpress as a result of making the project as cost efficient as possible.
 
 ESP32-WROVER-CAM = $18 (Amazon)
 L298N Motor Driver = $6 (Aliexpress)
