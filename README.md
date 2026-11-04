@@ -1,5 +1,7 @@
 # Self-Balancing-Robot
 
+My project is a Self-Balancing Robot that will balance in place using tilt detection. I will be using the small component called the MPU-6050 or at least known as the MPU-6050. I choose this becuase it is pretty straightforward and easy to use for beginners. You may be asking why does this project even exist. Well there a lot of things that exist and one of the things are this specefic projects with these specefic parts. This project is beginner friendly so any beginner can just use this guide and start building. My main purpose of this project was to help beginners learn the basics of robotics and help them learn how tilt, motors and microcontrollers work.
+
 
 
 - ESP32-WROVER-CAM = $18 (Amazon)
