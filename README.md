@@ -10,7 +10,7 @@ My project is a Self-Balancing Robot that will balance in place using tilt detec
 
 
 
-
+-BOM-
 - ESP32-WROVER-CAM = $18 (Amazon)
 - L298N Motor Driver = $6 (Aliexpress)
 - 2 Yellow TT Motors with Wheels = $5 (Aliexpress)
