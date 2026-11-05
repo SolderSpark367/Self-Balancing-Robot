@@ -12,6 +12,8 @@ My project is the Self-Balancing Robot. The purpose of this project is to have a
 
 
 
+
+
 -Here is the picture of the list of hardware components that will be needed (it does not include the ESP32-WROVER becuase it is currently in a different project of mine)-
 ![IMG_4450_72906b576444640d.jpeg](https://cdn.hackclub.com/01a19354-bc25-76a4-8a1c-2e32b04643a4/IMG_4450_72906b576444640d.jpeg)
 
