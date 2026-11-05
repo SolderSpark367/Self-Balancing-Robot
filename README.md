@@ -8,6 +8,8 @@ My project is the Self-Balancing Robot. The purpose of this project is to have a
 <img width="900" height="918" alt="Screenshot 2026-11-03 200919" src="https://github.com/user-attachments/assets/6503e890-7962-4b01-ad52-4e7ed0c2a9fd" />
 
 -Below is the wiring diagram (I generated it using ChatGPT)-
+<img width="1827" height="1237" alt="Screenshot 2026-11-05 182301" src="https://github.com/user-attachments/assets/31ae7bc4-d27b-4fbd-a223-45cbc6ee3926" />
+
 
 
 
