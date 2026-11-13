@@ -8,7 +8,8 @@ My project is the Self-Balancing Robot. The purpose of this project is to have a
 <img width="900" height="918" alt="Screenshot 2026-11-03 200919" src="https://github.com/user-attachments/assets/6503e890-7962-4b01-ad52-4e7ed0c2a9fd" />
 
 -Below is the wiring diagram-
-![Uploading image_78e1ea0f8d359eed.jpg…]()
+<img width="3024" height="4032" alt="image_78e1ea0f8d359eed" src="https://github.com/user-attachments/assets/6d4e7761-f1c8-4718-be67-f0745806e4bc" />
+
 
 
 
