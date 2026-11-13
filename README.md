@@ -1,6 +1,9 @@
 # Self-Balancing-Robot
 
-My project is the Self-Balancing Robot. The purpose of this project is to have a standing up 2 wheeled robot that balances on its own. Its kind of like a townhouse on wheels trying to balance in place. You may be wondering why does this project even exist. Well I mean it may not be useful in everyday life but it is a great way to learn the basics of robotics such as using motor drivers, using motors, using your microcontroller which in this case is the ESP32-WROVER, and the thing that controls almost everything about the balancing; the MPU-6050. You may be like what the heck is a MPU-6050? A MPU-6050 is a small PCB that are pretty cheap to buy and very useful. They detect how much your robot/object is tilting and sends that information to your microcontroller which then processes that info to give to the motor driver so the motors can react quickly for the robot to balance upright. In conclusion I wanted beginners to learn how tilt, motors, microcontrollers, and etc work.
+- My project is the Self-Balancing Robot. The purpose of this project is to have a standing up 2 wheeled robot that balances on its own. Its kind of like a townhouse on wheels trying to balance in place.
+- You may be wondering why does this project even exist. Well I mean it may not be useful in everyday life but it is a great way to learn the basics of robotics such as using motor drivers, using motors, using your microcontroller which in this case is the ESP32-WROVER, and the thing that controls almost everything about the balancing; the MPU-6050. You may be like what the heck is a MPU-6050? A MPU-6050 is a small PCB that are pretty cheap to buy and very useful. They detect how much your robot/object is tilting and sends that information to your microcontroller which then processes that info to give to the motor driver so the motors can react quickly for the robot to balance upright.
+
+In conclusion I wanted beginners to learn how tilt, motors, microcontrollers, and etc work.
 
 
 -Below Are Pictures of my 3d Chassis Design-
